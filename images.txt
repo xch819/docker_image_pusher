@@ -1,1 +1,1 @@
---platform=linux/arm/v7tailscale:
+--platform=linux/arm/v7 tailscale:
