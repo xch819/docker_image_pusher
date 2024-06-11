@@ -1,3 +1,4 @@
 --platform=linux/arm jyhking/onecloud:1.1
 --platform=linux/arm/v7 tailscale/tailscale:unstable
 --platform=linux/arm/v7 p3terx/aria2-pro:202209060423
+--platform=linux/arm/v7 p3terx/ariang:latest
