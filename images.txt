@@ -1,1 +1,1 @@
---platform=linux/arm onecloud:1.1
+--platform=linux/arm jyhking/onecloud:1.1
