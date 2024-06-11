@@ -1,1 +1,2 @@
 --platform=linux/arm jyhking/onecloud:1.1
+--platform=linux/arm/v7 tailscale/tailscale:unstable
