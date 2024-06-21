@@ -1,1 +1,1 @@
---platform=linux/arm/v7 xiaoyaliu/alist:hostmode
+--platform=linux/arm/v7 neosmemo/memos:0.15.0
