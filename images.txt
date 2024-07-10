@@ -1,2 +1,1 @@
 --platform=linux/amd64 johngong/qbittorrent:latest
-
