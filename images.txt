@@ -1,2 +1,2 @@
---platform=linux/amd64 linuxserver/qbittorrent:4.6.5
+--platform=linux/amd64 synctvorg/synctv:latest
 
