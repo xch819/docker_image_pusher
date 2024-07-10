@@ -1,1 +1,2 @@
---platform=linux/arm/v7 neosmemo/memos:0.15.0
+--platform=linux/amd64 linuxserver/qbittorrent:4.6.5
+
