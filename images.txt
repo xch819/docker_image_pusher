@@ -1,2 +1,2 @@
---platform=linux/amd64 synctvorg/synctv:latest
+--platform=linux/amd64 johngong/qbittorrent:latest
 
