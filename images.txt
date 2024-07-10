@@ -1,2 +1,2 @@
---platform=linux/amd64 xiaoyaliu/alist:latest
+--platform=linux/amd64 xhofe/alist:latest
 
