@@ -1,3 +1,3 @@
---platform=linux/amd64 7yhong/nginx-rtmp:latest
+--platform=linux/amd64 nibrev/ant-media-server:latest
 
 
