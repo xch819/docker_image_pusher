@@ -1,3 +1,3 @@
---platform=linux/amd64 qiruizheng/live-torrent:latest
+--platform=linux/amd64 adguard/adguardhome:latest
 
 
